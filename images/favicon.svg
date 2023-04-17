@@ -1,0 +1,11 @@
+<svg id="favicon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143.498" height="143.499" viewBox="0 0 143.498 143.499">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_1224" data-name="長方形 1224" width="143.499" height="143.499" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_1463" data-name="グループ 1463" clip-path="url(#clip-path)">
+    <path id="楕円形_11" data-name="楕円形 11" d="M66.749-5A71.749,71.749,0,1,1-5,66.749,71.831,71.831,0,0,1,66.749-5Zm0,133.5A61.749,61.749,0,1,0,5,66.749,61.819,61.819,0,0,0,66.749,128.5Z" transform="translate(5 5)" fill="#ffb5bb"/>
+    <path id="パス_1177" data-name="パス 1177" d="M103.9,46.005,88.9,51.967l2.36-15.385C79,35.055,59.669,36.338,49.6,50.459,35.437,70.33,40.608,102.8,40.608,102.8s32.821,3.674,51.819-11.638c13.62-10.978,13.626-33.033,11.469-45.159" fill="#ffb5bb"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.579" height="41.616" viewBox="0 0 41.579 41.616">
+  <g id="image_PC" transform="translate(0 0)">
+    <rect id="長方形_1206" data-name="長方形 1206" width="41.579" height="31.173" rx="6.462" transform="translate(0 0)" fill="#8e8e8f"/>
+    <rect id="長方形_1207" data-name="長方形 1207" width="33.12" height="19.413" rx="1.693" transform="translate(4.229 4.434)" fill="#fff"/>
+    <circle id="楕円形_6" data-name="楕円形 6" cx="1.335" cy="1.335" r="1.335" transform="translate(19.454 26.498)" fill="#fff"/>
+    <g id="グループ_1386" data-name="グループ 1386" transform="translate(12.5 33.109)">
+      <path id="パス_936" data-name="パス 936" d="M453.787,439.708h7.019c0,3.307,2.14,5.986,4.78,5.986v1.65H449.008v-1.65C451.648,445.694,453.787,443.015,453.787,439.708Z" transform="translate(-449.008 -439.708)" fill="#8e8e8f"/>
+      <path id="パス_937" data-name="パス 937" d="M467.32,443.62" transform="translate(-455.522 -441.1)" fill="#8e8e8f"/>
+      <path id="パス_938" data-name="パス 938" d="M474.739,452.911" transform="translate(-458.161 -444.404)" fill="#8e8e8f"/>
+      <path id="パス_939" data-name="パス 939" d="M449.008,452.911" transform="translate(-449.008 -444.404)" fill="#8e8e8f"/>
+      <path id="パス_940" data-name="パス 940" d="M456.426,443.62" transform="translate(-451.647 -441.1)" fill="#8e8e8f"/>
+    </g>
+  </g>
+</svg>
